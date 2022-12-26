@@ -1,0 +1,9 @@
+{
+  "name": "automod",
+  "version": "1.0.0",
+  "description": "automod for discord servers",
+  "main": "index.js",
+  "author": "me",
+  "license": "MIT",
+  "private": false
+}
