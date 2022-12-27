@@ -122,6 +122,11 @@ It vaporized the girl as it punched right through her, it barely slowed before c
       trigger: ['good bot'],
       response: `🥺😊`,
       type: "text",
+    },
+    {
+      trigger: ['bad bot'],
+      response: `😢🤧`,
+      type: "text",
     }
     // {
     //   trigger: [''],
