@@ -4,8 +4,9 @@ const {
   Client,
   GatewayIntentBits,
   Events,
-  ActivityType,
+  ActivityType
 } = require("discord.js");
+
 const client = new Client({
   intents: [
     GatewayIntentBits.Guilds,
@@ -13,6 +14,7 @@ const client = new Client({
     GatewayIntentBits.MessageContent,
   ],
 });
+
 const token = process.env.DISCORD_TOKEN;
 
 client.once(Events.ClientReady, (c) => {
@@ -24,9 +26,11 @@ client.once(Events.ClientReady, (c) => {
 
 client.on(Events.MessageCreate, (message) => {
   if (message.content === "ping") {
-    message.reply("Pong!");
+    message.reply({
+      content: "pong",
+      allowedMentions: { repliedUser: false },
+    });
   }
-  console.log(message);
 });
 
 client.login(token);
