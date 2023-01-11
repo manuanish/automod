@@ -111,7 +111,7 @@ It vaporized the girl as it punched right through her, it barely slowed before c
 ⠄⠄⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣾⣿⣿⡿⠟⠄⠄
 ⠠⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
       `,
-      type: "text",
+      type: "ascii",
     },
     {
       trigger: ["automod"],
@@ -153,7 +153,7 @@ UNINSTALLING VALORANT
 　　╰━╯╰━╯　╱　╰╯ 　　　　　
 　　　     COMPLETE
       `,
-      type: "text",
+      type: "ascii",
     },
     {
       trigger: ["asked"],
@@ -190,7 +190,7 @@ UNINSTALLING VALORANT
 ⠨⡂⡀⢑⢕⡅⠂⠄⠉⠛⠻⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢋⢔⢕⢕⣿⣿⠠⠈
 ⠄⠪⣂⠁⢕⠆⠄⠂⠄⠁⡀⠂⡀⠄⢈⠉⢍⢛⢛⢛⢋⢔⢕⢕⢕⣽⣿⣿⠠⠈
       `,
-      type: "text",
+      type: "ascii",
     },
     {
       trigger: ["fuck you"],
@@ -215,7 +215,7 @@ UNINSTALLING VALORANT
 ⡇⠄⣿⣿⣿⣿⡄⠄⣿⣿⣿⠄⢸⡇⠄⣿⣿⣿⣿⡇⠄⣀⠈⢻⣿⣿⣿⣿
 ⣿⣄⠈⠙⠛⢻⣧⡄⠙⠛⠉⣠⣿⣷⣄⠈⠙⠛⢹⡇⠄⣿⣧⠄⠻⣿⣿⣿
       `,
-      type: "text",
+      type: "ascii",
     },
     {
       trigger: ["minecraft", "mc"],
@@ -252,18 +252,25 @@ UNINSTALLING VALORANT
 ⠀⠀⠀⠀⠁⠇⠡⠩⡫⢿⣝⡻⡮⣒⢽⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 —————————————————————————————
       `,
-      type: "text"
+      type: "ascii",
     },
     {
       trigger: ["simp"],
       response: `SORRY SLUTS‼️😤🌞SIMP SUMMER🌞IS OVER🙅🏻‍♀️🚫YOU BETTER FUCK OFF 🏃🏼‍♀️BECAUSE NO ❌SIMP ❌SEPTEMBER HAS ONLY JUST BEGUN👌🏻🙏🏻 YOU KNOW WHAT THAT MEANS 👀😳 LOOKS LIKE THE 🍗TURKEY🍗 ISNT GETTING ANY SLURPY 🌧 TONIGHT🌚‼️ PREPARE 🤞🏻UR PUSSIES 👉🏻👉🏻FOR A DRY SPELL ☀️ CAUSE ITS TIME🕑 FOR THE BOYS 😤💪🏼TO FOCUS 👀 ON THEMSELVES 😇YOU SLUTS BEST SAVE YOURSELVES FOR THAT GOOD DICK🙌🏻🍆 SEND THIS TO 7️⃣ OF YOUR BIGGEST HOES👯‍♀️TO LET THEM KNOW YOU'RE READY😎FOR NO ❌SIMP❌SEPTEMBER👏🏻👏🏻`,
-      type: "text"
-    }
+      type: "text",
+    },
+    {
+      trigger: ["cum"],
+      response: `Infinite cum. You sit on the toilet to jack off, but you begin to cum uncontrollably. After ten spurts you start to worry. Your hand is sticky and it reeks of semen. You desperately shove your dick into a wad of toilet paper, but that only makes your balls hurt. The cum accelerates. It’s been three minutes. You can’t stop cumming. Your bathroom floor is covered in a thin layer of baby fluid. You try to cum into the shower drain but it builds up too fast. You try the toilet. The cum is too thick to be flushed. You lock the bathroom door to prevent the cum from escaping. The air grows hot and humid from the cum. The cum accelerates. You slip and fall in your own sperm. The cum is now six inches deep, almost as long as your still-erect semen hose. Sprawled on your back, you begin to cum all over the ceiling. Globs of the sticky white fluid begin to fall like raindrops, giving you a facial with your own cum. The cum accelerates. You struggle to stand as the force of the cum begins to propel you backwards as if you were on a bukkake themed slip-and-slide. Still on your knees, the cum is now at chin height. To avoid drowning you open the bathroom door. The deluge of man juice reminds you of the Great Molasses Flood of 1919, only with cum instead of molasses. The cum accelerates. It’s been two hours. Your children and wife scream in terror as their bodies are engulfed by the snow-white sludge. Your youngest child goes under, with viscous bubbles and muffled cries rising from the goop. You plead to God to end your suffering. The cum accelerates. You squeeze your dick to stop the cum, but it begins to leak out of your asshole instead. You let go. The force of the cum tears your urethra open, leaving only a gaping hole in your crotch that spews semen. Your body picks up speed as it slides backwards along the cum. You smash through the wall, hurtling into the sky at thirty miles an hour. From a bird’s eye view you see your house is completely white. Your neighbor calls the cops. The cum accelerates. As you continue to ascend, you spot police cars racing towards your house. The cops pull out their guns and take aim, but stray loads of cum hit them in the eyes, blinding them. The cum accelerates. You are now at an altitude of 1000 feet. The SWAT team arrives. Military helicopters circle you. Hundreds of bullets pierce your body at once, yet you stay conscious. Your testicles have now grown into a substitute brain. The cum accelerates. It has been two days. With your body now destroyed, the cum begins to spray in all directions. You break the sound barrier. The government deploys fighter jets to chase you down, but the impact of your cum sends one plane crashing to the ground. The government decides to let you leave the earth. You feel your gonads start to burn up as you reach the edges of the atmosphere. You narrowly miss the ISS, giving it a new white paint job as you fly past. Physicists struggle to calculate your erratic trajectory. The cum accelerates. The cum begins to gravitate towards itself, forming a comet trail of semen. Astronomers begin calling you the “Cummet.” You are stuck in space forever, stripped of your body and senses, forced to endure an eternity of cumshots. Eventually, you stop thinking.`,
+      type: "text",
+    },
   ],
 };
 
 client.on(Events.MessageCreate, (message) => {
   // Check if message author is automod#0068
+  // create a list of already sent copypastas
+  var already_sent = [];
 
   if (message.author.id != 1056930155509075968) {
     // Loop through all copypasta
@@ -275,16 +282,41 @@ client.on(Events.MessageCreate, (message) => {
           message.content.toLowerCase().includes(copypasta.all[i].trigger[j])
         ) {
           // Send the response
+
           // If the response type is a reaction, react to the message
           if (copypasta.all[i].type === "reaction") {
             message.react(copypasta.all[i].response);
           }
           // If the response type is text, send the message
           if (copypasta.all[i].type === "text") {
-            message.reply({
-              content: copypasta.all[i].response,
-              allowedMentions: { repliedUser: false },
-            });
+            // Group the message into groups containing 2000 characters
+            var groups = [];
+            for (let k = 0; k < copypasta.all[i].response.length; k += 2000) {
+              groups.push(copypasta.all[i].response.substring(k, k + 2000));
+            }
+
+            // Send the message
+            for (let k = 0; k < groups.length; k++) {
+              if (!already_sent.includes(groups[k])) {
+                message.reply({
+                  content: groups[k],
+                  allowedMentions: { repliedUser: false },
+                });
+
+                // Add the copypasta to the list of already sent copypastas
+                already_sent.push(groups[k]);
+              }
+            }
+          } else if (copypasta.all[i].type === "ascii") {
+            if (!already_sent.includes(copypasta.all[i].response)) {
+              message.reply({
+                content: copypasta.all[i].response.substring(0, 2000),
+                allowedMentions: { repliedUser: false },
+              });
+
+              // Add the copypasta to the list of already sent copypastas
+              already_sent.push(copypasta.all[i].response);
+            }
           }
         }
       }
