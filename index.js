@@ -23,7 +23,7 @@ const token = process.env.DISCORD_TOKEN;
 client.once(Events.ClientReady, (c) => {
   console.log(`Ready! Logged in as ${c.user.tag}`);
   client.user.setPresence({
-    activities: [{ name: "updated 🤯", type: ActivityType.Streaming }],
+    activities: [{ name: "update 🔥", type: ActivityType.Streaming }],
   });
 });
 
